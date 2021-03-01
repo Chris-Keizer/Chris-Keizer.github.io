@@ -274,6 +274,11 @@ p a:hover {
 	float:left;
 	width: 50px;
 }
+.phpLogo {
+	padding: 0px;
+	float:left;
+	width:50px;
+}
 
 p {
 	text-align: left;
