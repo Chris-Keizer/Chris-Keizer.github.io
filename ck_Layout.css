@@ -301,7 +301,7 @@ p img {
 	flex-shrink: 3;
 }
 .skillArticle6 {
-	padding: 110px 20px 20px 10px;
+	padding: 100px 20px 20px 10px;
 	float: left;
 	width: 200px;
 	text-align: right;
@@ -717,7 +717,7 @@ footer {
 		flex-shrink: 3;
 	}
 	.skillArticle6 {
-		padding: 110px 20px 20px 10px;
+		padding: 100px 20px 20px 10px;
 		float: left;
 		width: 200px;
 		text-align: right;
