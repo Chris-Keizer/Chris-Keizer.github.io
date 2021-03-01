@@ -326,7 +326,7 @@ p img {
 	padding: 30px;
 	background-color: rgb(209, 209, 209 , .8);
 	box-sizing: border-box;
-	margin: 0px 20px 0px 20px;
+	margin: 0px 20px 0px 0px;
 	border-radius: 15px;
 	min-width: 350px;
 	height: 500px;
@@ -336,9 +336,10 @@ p img {
 	padding: 30px;
 	background-color: rgb(209, 209, 209 , .8);
 	box-sizing: border-box;
-	margin: 0px 20px 0px 20px;
+	margin: 0px 20px 0px 0px;
 	border-radius: 15px;
 	min-width: 350px;
+	height: 500px;
 	flex: 1;
 }
 
@@ -407,14 +408,13 @@ footer {
 	}
 	.goalArticle1 {
 		margin: 0px 20px 10px 20px;
-		height: 350px;	
+		height: 550px;	
 		min-width: 160px;
 		flex: 1;
 	}
 	.goalArticle2 {
-		margin-top: 10px;
 		margin-bottom: 20px;
-		height: 350px;
+		height: 550px;
 		min-width: 160px;
 		flex: 1;
 		
