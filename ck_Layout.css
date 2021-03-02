@@ -127,6 +127,35 @@ p a:hover {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+/*==========================*/
+/* This is for Examples Page */
+.exampleContainer {
+	display: -webkit-flex;
+	-webkit-flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 1300px;
+	margin: 40px auto 0 auto;
+	line-height: 1.65;
+	padding: 20px 50px;
+	justify-content: space-between;
+	flex-basis: 30%;
+	margin-bottom: 10px;
+}
+.exampleArticle1 {
+	padding: 30px;
+	background-color: rgb(209, 209, 209 , .8);
+	box-sizing: border-box;
+	margin-right: 20px;
+	border-radius: 15px;
+	width: 75%;
+}
+.app1 {
+	float: left;
+	padding-right: 10px;
+}
+
 /*==========================*/
 /* This is for Resume Page */
 .resumeContainer {
@@ -477,6 +506,18 @@ footer {
 		margin: 0px 0px 20px 0px;
 		width: 100%;
 	}
+/*example Page*/
+	.exampleContainer {
+		width: 100%;
+		padding: 0px 20px 0px 20px;
+		margin-top: 40px;
+		margin-bottom: 0px;
+	}
+	.exampleArticle1 {
+		padding: 30px;
+		margin: 0px 0px 20px 0px;
+		width: 100%;
+	}
 /*contact Page*/
 	.contactContainer {
 		margin: 0px;
@@ -563,6 +604,16 @@ footer {
 		margin: 0px;
 		width: 100%;
 	}
+/*resume Page*/
+	.exampleContainer {
+		width: 100%;
+		padding: 20px 50px 20px 50px;
+	}
+	.exampleArticle1 {
+		padding: 30px;
+		margin: 0px;
+		width: 100%;
+	}
 	/*contact Page*/
 	.contactContainer {
 		margin: 40px 0px 10px 0px;
@@ -634,6 +685,17 @@ footer {
 	}
 
 	/*==========================*/
+
+	/*==========================*/
+	/* This is for Example Page */
+	.exampleArticle1 {
+		padding: 30px;
+		background-color: rgb(209, 209, 209 , .8);
+		box-sizing: border-box;
+		margin-right: 20px;
+		border-radius: 15px;
+		width: 75%;
+	}
 
 	/*==========================*/
 	/* This is for contact Page */
